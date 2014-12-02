@@ -7,5 +7,3 @@ echo 'teste';
  */
 
 echo 'nada';
-
-echo 'outro';
