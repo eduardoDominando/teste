@@ -6,3 +6,4 @@ echo 'teste';
  * and open the template in the editor.
  */
 
+echo 'nada';
